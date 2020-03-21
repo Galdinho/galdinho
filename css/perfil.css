@@ -1,0 +1,60 @@
+body{
+	background-color: ;
+}
+.header{
+	text-align: center;
+	height: 300px;
+	padding: 12px;
+	background-color: ;
+}
+.user_foto{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.user_nome{
+	font-size: 17px;
+	margin-top: 14px;
+}
+.redes_sociais{
+	list-style: none;
+	text-align: center;
+	padding: 0;
+}
+.redes_sociais li{
+	display: inline-block;
+	margin: 5px;
+}
+a{
+	text-decoration: none;
+	color: #ad0000;
+}
+a:hover{
+	color: orange;
+}
+.icone{
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background-size: cover;
+}
+.twitter{
+    width: 20px;
+	height: 20px;
+}
+.whatsapp{
+	width: 20px;
+	height: 20px;
+}
+.instagram{
+	width: 20px;
+	height: 20px;
+}
+.sobre h3{
+	color: #545454;
+	font-size: 18px;
+}
+.sobre p{
+	color: #545454;
+	font-size: 16px;
+}
